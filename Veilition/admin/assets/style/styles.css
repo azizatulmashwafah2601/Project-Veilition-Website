@@ -1,0 +1,73 @@
+.body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F4AEAE;
+}
+#wrapper {
+    background-color: #F4AEAE;
+    width: 100%;
+}
+/* sidebar */
+.sidebar-collapse , .sidebar-collapse .nav{
+	background-color:#F4AEAE;
+
+}
+.sidebar-collapse .nav {
+	padding:0;
+    background-color:#F4AEAE;
+}
+.sidebar-collapse .nav > li > a {
+	color:#fff;
+	background:#F4AEAE;
+	text-shadow:none;
+}
+.sidebar-collapse > .nav > li > a {
+	padding:15px 10px;
+    background-color:#F4AEAE;
+   
+}
+.sidebar-collapse > .nav > li {
+	border-bottom: 1px solid rgba(129, 14, 43, 0.19);
+    background-color:#F4AEAE;
+}
+.sidebar-collapse .nav > li > a:hover,
+.sidebar-collapse .nav > li > a:focus {
+	
+	background-color:#F4AEAE;
+	outline:0;
+}
+/* navbar */
+.navbar-side {
+	border:none;
+	background-color: #F4AEAE;
+	
+}
+.navbar-cls-top {
+	background:#F4AEAE;
+	border-bottom:none;
+	
+}
+.navbar-cls-top .navbar-brand:hover {
+
+background: #F4AEAE;
+color:#fff;
+
+}
+.navbar-default {
+background-color: #F4AEAE;
+}
+.navbar-header {
+    background: #F4AEAE;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+background-color: #F4AEAE;
+}
+.navbar-default .navbar-toggle {
+border-color: #fff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+background-color: #FFF;
+}
+.nav > li > a > i {
+    margin-right:10px;
+}
